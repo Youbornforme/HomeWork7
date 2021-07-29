@@ -3,11 +3,11 @@
 }
 
 .img img{
-    border-radius: 10px;
+    border-radius: 12px;
 }
 
 .button{
-    border: 1px solid rgba(0,0,0,.125);
+    border: 2px solid rgba(0,0,0,.125);
     padding: 5px 20px 5px 20px;
 }
 
